@@ -1,7 +1,7 @@
 ## 📋 Todo List MVC Application
 
 A simple ASP.NET Core 8 MVC application for managing tasks with CRUD operations, priority levels, status tracking, and due date management.
-
+---
 ## 🏗️ Architecture
 
 The project follows a 3-tier architecture:
@@ -22,7 +22,7 @@ Data Access Layer
 ├─ Repository Pattern
 └─ EF Core Migrations
 ```
-
+---
 ## 🚀 Features
 
 ✨ CRUD operations for todos
@@ -32,7 +32,7 @@ Data Access Layer
 🕒 Automatic timestamp tracking (Created/Modified dates)
 📱 Responsive design with Bootstrap
 🎨 Clean and intuitive UI
-
+---
 
 ## 🛠️ Technologies Used
 Framework: ASP.NET Core 8.0 MVC
@@ -42,8 +42,7 @@ Mapping: AutoMapper 16.0
 UI Framework: Bootstrap 5
 Icons: Bootstrap Icons
 Target Framework: .NET 8.0
-
-
+---
 ## 📋 Prerequisites
 
 Before running this application, ensure you have:
@@ -52,14 +51,14 @@ SQL Server (Express or higher)
 Visual Studio 2022 or Visual Studio Code
 SQL Server Management Studio (optional, for database management)
 
-
+---
 ## ⚙️ Installation & Setup
 Clone the repository
 ```bash
 git clone https://github.com/yourusername/todolist-app-mvc.git
 cd todolist-app-mvc
 ```
-
+---
 
 ## 📁 Project Structure
 ```bash
@@ -109,6 +108,8 @@ TodoList-App-Mvc/
     │   │       └── TodoAppRepository.cs
     │   └── Migrations/
 ```
+
+---
 ## 👤 Author : Mohamed Essam
 
 Your Name
