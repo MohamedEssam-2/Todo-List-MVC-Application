@@ -1,7 +1,9 @@
 ## 📋 Todo List MVC Application
 
 A simple ASP.NET Core 8 MVC application for managing tasks with CRUD operations, priority levels, status tracking, and due date management.
+
 ---
+
 ## 🏗️ Architecture
 
 The project follows a 3-tier architecture:
